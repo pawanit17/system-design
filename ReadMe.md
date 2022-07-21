@@ -85,3 +85,5 @@ https://medium.com/double-pointer/system-design-interview-how-to-design-bookmysh
 https://www.geeksforgeeks.org/design-bookmyshow-a-system-design-interview-question/
 https://astikanand.github.io/techblogs/high-level-system-design/design-bookmyshow
 https://leetcode.com/discuss/interview-question/system-design/1841104/How-to-design-a-job-review-system-for-a-job-posting-website
+
+https://levelup.gitconnected.com/scaling-our-leaderboard-possibly-to-millions-of-users-778b0ca20ba3
